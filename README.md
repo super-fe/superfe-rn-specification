@@ -2,7 +2,16 @@
 
 >Specification of super-fe's react-native apps
 
-<!--[TOC]-->
+* [Development Environment](#development-environment)
+    + [node&npm version](#nodenpm-version)
+    + [react-native version](#react-native-version)
+* [Project Files](#project-files)
+    + [Directories](#directories)
+    + [package.json](#packagejson)
+    + [CHANGELOG.md](#changelogmd)
+* [Code Style](#code-style)
+    + [.editorconfig](#editorconfig)
+    + [.fecs](#fecs)
 
 ## Development Environment
 
